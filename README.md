@@ -6,9 +6,8 @@
 </div>
 
 ### Goals
-This work intended to explore knowledge in order to build a computer application that takes advantage of it. For this, it was necessary to choose a theme and a set of data related to it, in order to develop an interactive web interface that makes information available in an easy and accessible way. 
-
-In the modern world and in the information age, cocktail recipes are widely shared online. The cocktails and bars that serve them are often covered and evaluated in magazines and tourist guides, in this sense the theme chosen for this work was about cocktails. This theme was chosen because it is a theme that the group found with potential to be explored and since there is great knowledge about this area, it would be interesting to build an application that would allow exploring and presenting this knowledge in an easy-to-interpret and interactive way.
+* This work intended to explore knowledge in order to build a computer application that takes advantage of it. For this, it was necessary to choose a theme and a set of data related to it, in order to develop an interactive web interface that makes information available in an easy and accessible way. 
+* In the modern world and in the information age, cocktail recipes are widely shared online. The cocktails and bars that serve them are often covered and evaluated in magazines and tourist guides, in this sense the theme chosen for this work was about cocktails. This theme was chosen because it is a theme that the group found with potential to be explored and since there is great knowledge about this area, it would be interesting to build an application that would allow exploring and presenting this knowledge in an easy-to-interpret and interactive way.
 ---
 ### How to run
 1. Start GraphDB
